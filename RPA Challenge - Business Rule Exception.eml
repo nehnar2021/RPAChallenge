@@ -1,0 +1,19 @@
+Return-Path: <nehanarang83@gmail.com>
+Received: from SachinNarang-PC ([2607:fea8:a4a4:4e00:84c5:10dd:3d4c:def5])
+        by smtp.gmail.com with ESMTPSA id m7-20020a927107000000b002eb771120dfsm3877426ilc.6.2022.09.05.06.57.35
+        for <nehanarang83@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 05 Sep 2022 06:57:35 -0700 (PDT)
+Message-ID: <6316004f.920a0220.ca2e3.38fb@mx.google.com>
+From: "Pete (bot)" <nehanarang83@gmail.com>
+X-Google-Original-From: "Pete (bot)" <Pete@gmail.com>
+To: nehanarang83@gmail.com
+Subject: RPA Challenge - Business Rule Exception
+Date: Mon, 05 Sep 2022 09:57:44 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+
+Hi,
+A business rule exception is tiggered on 09/05/2022 09:57:44. Either the Company Name or Role in Company contains the unexpected value. Therefore, Wrong company value is set in the Result field of the table.
+ Regards,
+Pete (Bot)
